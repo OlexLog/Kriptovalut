@@ -1,0 +1,128 @@
+Uri: https://cdnjs.cloudflare.com/ajax/libs/Chart.js/2.7.1/Chart.bundle.js
+File Name: D:\Верстка\2024\курс валют\cryptohub.p.goit.global\ajax\libs\Chart.js\2.7.1\Chart.bundle.js
+Content Type: application/javascript
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/materialize/0.100.2/css/materialize.min.css
+File Name: D:\Верстка\2024\курс валют\cryptohub.p.goit.global\ajax\libs\materialize\0.100.2\css\materialize.min.css
+Content Type: text/css
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/materialize/0.100.2/fonts/roboto/Roboto-Bold.woff
+File Name: D:\Верстка\2024\курс валют\cryptohub.p.goit.global\ajax\libs\materialize\0.100.2\fonts\roboto\Roboto-Bold.woff
+Content Type: application/octet-stream
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/materialize/0.100.2/fonts/roboto/Roboto-Bold.woff2
+File Name: D:\Верстка\2024\курс валют\cryptohub.p.goit.global\ajax\libs\materialize\0.100.2\fonts\roboto\Roboto-Bold.woff2
+Content Type: application/octet-stream
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/materialize/0.100.2/fonts/roboto/Roboto-Light.woff
+File Name: D:\Верстка\2024\курс валют\cryptohub.p.goit.global\ajax\libs\materialize\0.100.2\fonts\roboto\Roboto-Light.woff
+Content Type: application/octet-stream
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/materialize/0.100.2/fonts/roboto/Roboto-Light.woff2
+File Name: D:\Верстка\2024\курс валют\cryptohub.p.goit.global\ajax\libs\materialize\0.100.2\fonts\roboto\Roboto-Light.woff2
+Content Type: application/octet-stream
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/materialize/0.100.2/fonts/roboto/Roboto-Medium.woff
+File Name: D:\Верстка\2024\курс валют\cryptohub.p.goit.global\ajax\libs\materialize\0.100.2\fonts\roboto\Roboto-Medium.woff
+Content Type: application/octet-stream
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/materialize/0.100.2/fonts/roboto/Roboto-Medium.woff2
+File Name: D:\Верстка\2024\курс валют\cryptohub.p.goit.global\ajax\libs\materialize\0.100.2\fonts\roboto\Roboto-Medium.woff2
+Content Type: application/octet-stream
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/materialize/0.100.2/fonts/roboto/Roboto-Regular.woff
+File Name: D:\Верстка\2024\курс валют\cryptohub.p.goit.global\ajax\libs\materialize\0.100.2\fonts\roboto\Roboto-Regular.woff
+Content Type: application/octet-stream
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/materialize/0.100.2/fonts/roboto/Roboto-Regular.woff2
+File Name: D:\Верстка\2024\курс валют\cryptohub.p.goit.global\ajax\libs\materialize\0.100.2\fonts\roboto\Roboto-Regular.woff2
+Content Type: application/octet-stream
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/materialize/0.100.2/fonts/roboto/Roboto-Thin.woff
+File Name: D:\Верстка\2024\курс валют\cryptohub.p.goit.global\ajax\libs\materialize\0.100.2\fonts\roboto\Roboto-Thin.woff
+Content Type: application/octet-stream
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/materialize/0.100.2/fonts/roboto/Roboto-Thin.woff2
+File Name: D:\Верстка\2024\курс валют\cryptohub.p.goit.global\ajax\libs\materialize\0.100.2\fonts\roboto\Roboto-Thin.woff2
+Content Type: application/octet-stream
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/materialize/0.100.2/js/materialize.min.js
+File Name: D:\Верстка\2024\курс валют\cryptohub.p.goit.global\ajax\libs\materialize\0.100.2\js\materialize.min.js
+Content Type: application/javascript
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/moment.js/2.20.1/moment.min.js
+File Name: D:\Верстка\2024\курс валют\cryptohub.p.goit.global\ajax\libs\moment.js\2.20.1\moment.min.js
+Content Type: application/javascript
+
+Uri: https://code.jquery.com/jquery-3.3.1.min.js
+File Name: D:\Верстка\2024\курс валют\cryptohub.p.goit.global\jquery-3.3.1.min.js
+Content Type: application/javascript
+
+Uri: https://cryptohub.p.goit.global/
+File Name: D:\Верстка\2024\курс валют\cryptohub.p.goit.global\index.htm
+Content Type: text/html
+
+Uri: https://cryptohub.p.goit.global/assets/css/style.css
+File Name: D:\Верстка\2024\курс валют\cryptohub.p.goit.global\assets\css\style.css
+Content Type: text/css
+
+Uri: https://cryptohub.p.goit.global/assets/img/favicon.ico
+File Name: D:\Верстка\2024\курс валют\cryptohub.p.goit.global\assets\img\favicon.ico
+Content Type: image/x-icon
+
+Uri: https://cryptohub.p.goit.global/assets/js/find_curency.js
+File Name: D:\Верстка\2024\курс валют\cryptohub.p.goit.global\assets\js\find_curency.js
+Content Type: application/javascript
+
+Uri: https://cryptohub.p.goit.global/assets/js/graph2.js
+File Name: D:\Верстка\2024\курс валют\cryptohub.p.goit.global\assets\js\graph2.js
+Content Type: application/javascript
+
+Uri: https://cryptohub.p.goit.global/assets/js/script.js
+File Name: D:\Верстка\2024\курс валют\cryptohub.p.goit.global\assets\js\script.js
+Content Type: application/javascript
+
+Uri: https://cryptohub.p.goit.global/assets/js/sort.js
+File Name: D:\Верстка\2024\курс валют\cryptohub.p.goit.global\assets\js\sort.js
+Content Type: application/javascript
+
+Uri: https://cryptohub.p.goit.global/cdn-cgi/scripts/7d0fa10a/cloudflare-static/rocket-loader.min.js
+File Name: D:\Верстка\2024\курс валют\cryptohub.p.goit.global\cdn-cgi\scripts\7d0fa10a\cloudflare-static\rocket-loader.min.js
+Content Type: application/javascript
+
+Uri: https://fonts.googleapis.com/css?family=Great+Vibes
+File Name: D:\Верстка\2024\курс валют\cryptohub.p.goit.global\css-1
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css?family=Istok+Web
+File Name: D:\Верстка\2024\курс валют\cryptohub.p.goit.global\css-2
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css?family=Shrikhand
+File Name: D:\Верстка\2024\курс валют\cryptohub.p.goit.global\css
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/icon?family=Material+Icons
+File Name: D:\Верстка\2024\курс валют\cryptohub.p.goit.global\icon
+Content Type: text/css
+
+Uri: https://fonts.gstatic.com/s/greatvibes/v18/RWmMoKWR9v4ksMfaWd_JN9XFiaE.ttf
+File Name: D:\Верстка\2024\курс валют\cryptohub.p.goit.global\s\greatvibes\v18\RWmMoKWR9v4ksMfaWd_JN9XFiaE.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/istokweb/v24/3qTvojGmgSyUukBzKslpBmt6.ttf
+File Name: D:\Верстка\2024\курс валют\cryptohub.p.goit.global\s\istokweb\v24\3qTvojGmgSyUukBzKslpBmt6.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/materialicons/v140/flUhRq6tzZclQEJ-Vdg-IuiaDsNZ.ttf
+File Name: D:\Верстка\2024\курс валют\cryptohub.p.goit.global\s\materialicons\v140\flUhRq6tzZclQEJ-Vdg-IuiaDsNZ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/shrikhand/v15/a8IbNovtLWfR7T7bMJwrA4KU.ttf
+File Name: D:\Верстка\2024\курс валют\cryptohub.p.goit.global\s\shrikhand\v15\a8IbNovtLWfR7T7bMJwrA4KU.ttf
+Content Type: font/ttf
+
+Uri: https://rawgit.com/moment/moment/2.2.1/min/moment.min.js
+File Name: D:\Верстка\2024\курс валют\cryptohub.p.goit.global\moment\moment\2.2.1\min\moment.min.js
+Content Type: application/javascript
+
